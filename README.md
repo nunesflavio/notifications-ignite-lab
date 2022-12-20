@@ -15,12 +15,13 @@ Microserviços para envio de notificações - evento Ignite Lab NodeJS
 ## Running the app
 
 ```bash
+# Instalar as dependências
+$ npm stall
+```
+Iniciar projeto
+```bash
 # development
-$ npm run start
-
-# watch mode
 $ npm run start:dev
-
 ```
 
 
